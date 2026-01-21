@@ -24,6 +24,7 @@ So, the goal is to implement necessary changes so that one can run the tests wit
 - Lighthouse
 - Prysm
 - Nimbus
+- Lodestar
 - Teku
 - more??
 
